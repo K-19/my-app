@@ -1,0 +1,11 @@
+.item {
+    color:blueviolet
+}
+
+.item .imgPost {
+    height: 30px;
+}
+
+.item .imgLike {
+    height: 17px;
+}
